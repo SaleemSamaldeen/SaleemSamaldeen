@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Cypress API testing with Javascript**
 - 👯 I’m looking to collaborate on **Automation framework design and development**
 - 🤔 I’m looking for help with **Microsoft Azure/ AWS Certifications**
-- 💬 Ask me about **Selenium, Plywright, Java, Rest-assured, Cypress, Javascript, Cucumber, DevOps (Jenkins etc.)**
+- 💬 Ask me about **Selenium, Playwright, Java, Rest-assured, Cypress, Javascript, Cucumber, DevOps (Jenkins etc.)**
 - 📫 How to reach me: https://www.linkedin.com/in/saleem91/
 
 <h3 align="left">Languages and Tools:</h3>
