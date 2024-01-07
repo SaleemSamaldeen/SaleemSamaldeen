@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Automation Framework with Cypress GUI with JavaScript**
-- 🌱 I’m currently learning **Cypress API testing with Javascript**
+- 🌱 I’m currently working on ** Playwright and Cypress tool with Typescript and Javascript languages**
 - 👯 I’m looking to collaborate on **Automation framework design and development**
-- 🤔 I’m looking for help with **Microsoft Azure/ AWS Certifications**
-- 💬 Ask me about **Selenium, Playwright, Java, Rest-assured, Cypress, Javascript, Cucumber, DevOps (Jenkins etc.)**
+- 🤔 I’m looking for help with **Devops roadmap and Microsoft Azure/ AWS Certifications**
+- 💬 Ask me about **Selenium, Playwright, Java, Rest-assured, Cypress, Javascript, Typescript, Cucumber, DevOps (Jenkins etc.)**
 - 📫 How to reach me: https://www.linkedin.com/in/saleem91/
 
 <h3 align="left">Languages and Tools:</h3>
